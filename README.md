@@ -1,4 +1,5 @@
-### Hi there 👋
+### Undergraduate Student learning how to Code
+I like 🪨
 
 <!--
 **EDaly0/EDaly0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
